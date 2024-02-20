@@ -1,0 +1,24 @@
+{
+  "name": "firebase-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/DucThuy2000/FirebasePractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DucThuy2000/FirebasePractice/issues"
+  },
+  "homepage": "https://github.com/DucThuy2000/FirebasePractice#readme",
+  "devDependencies": {
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
